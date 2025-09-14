@@ -9,6 +9,8 @@ Scriptify is a free AI-powered tool for generating complete video scripts based 
 - ⚡ Fast and modern UI with React and Tailwind CSS
 - 🔒 API key managed securely via environment variables
 
+👉 **Live Demo:** [https://scriptify-app.netlify.app](https://scriptify-app.netlify.app)
+
 ## Getting Started
 
 ### Prerequisites
@@ -87,7 +89,7 @@ scriptify/
 
 ## Author
 
-Vansh Gaikwad (https://github.com/vanshgaikwad)
+Vansh Gaikwad [https://github.com/vanshgaikwad](https://github.com/vanshgaikwad)
 
 ## License
 
